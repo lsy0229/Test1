@@ -1,3 +1,4 @@
 txt2.txt 파일입니다.
-fghijk
+fghijklmnop
+
 
